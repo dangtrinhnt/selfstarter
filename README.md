@@ -1,4 +1,8 @@
-# Selfstarter
+# About This Folk
+I modify the original Selfstarter to fit my needs.
+
+
+# About Selfstarter
 Selfstarter makes it easy to roll your own crowdfunding site. To get started, fork this repository and change around ```config/settings.yml``` to suit your needs.
 
 [See it in action](http://selfstarter.us)
